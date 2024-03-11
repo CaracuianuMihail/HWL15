@@ -1,0 +1,5 @@
+✔	Creati un fisier js.
+✔	Finisati exercitiu inceput la lectie.
+✔	Creati o clasa ce tine de orice tema va este aproape, apoi extindeti din ea inca 2 clase si creai cate un obiect cu ajutorul lor.
+✔	Creati un obiect dupa care destructurizatil.
+✔	Creati o functia care face orice operatiruni dar sa folositi destructurizarea argumntului.
